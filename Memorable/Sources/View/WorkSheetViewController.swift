@@ -167,10 +167,10 @@ class WorkSheetViewController: UIViewController {
         }
 
         // for demoday
-        finishImage.isHidden = false
-        doneButton.setTitleColor(MemorableColor.White, for: .normal)
-        doneButton.backgroundColor = MemorableColor.Blue2
-        doneButton.isEnabled = true
+//        finishImage.isHidden = false
+//        doneButton.setTitleColor(MemorableColor.White, for: .normal)
+//        doneButton.backgroundColor = MemorableColor.Blue2
+//        doneButton.isEnabled = true
 
         if detail.isAddWorksheet {
             finishAddWorksheet()
